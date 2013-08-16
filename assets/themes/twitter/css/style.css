@@ -68,4 +68,82 @@ body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+/*custerm======================================================== */
+/*img*/
+body{
+	font-size: 14px;
+	line-height: 20px;
+}
+p{
+	font-size: 16px;
+	line-height: 22px;
+	text-indent: 2em;
+	text-align: justify;
+}
+h1,h2,h3,h4,h5,h6{
+	margin-top: 0.6em;
+	margin-bottom: 0.3em;
+}
+.blog_img{
+	text-align: center;
+	margin: 5px auto;
+	padding: 6px;
+    border: 1px solid #aaaaaa;
+}
+.blog_img img{
+	max-width: 100%;
+}
+div .img_title{
+	font-weight: bold;
+	border-top: 1px solid #dddddd;
+}
+
+/*list with title*/
+div .title_list{
+	font-size: 1.2em;
+}
+div .list_title{
+	font-weight: bold;
+	margin-top: 0.6em;
+	margin-bottom: 0.3em;
+}
+
+/*bold title with ':' in the end*/
+div .bold_title{
+	font-size: 1.4em;
+	font-weight: bold;
+	margin-top: 0.6em;
+	margin-bottom: 0.3em;
+}
+footer{
+	text-align: center;
+	margin-bottom: 6px;
+}
+
+/*absctract*/
+.blogcard{
+	padding: 6px;
+	border-bottom: 1px solid #dddddd;
+}
+.blogcard h1{
+	font-size: 17px;
+	line-height: 23px;
+}
+.blogcard .abstract{
+	padding: 0.2em;
+}
+.blogcard .abstract p{
+	margin: 0;
+	padding-bottom: 2px;
+	text-indent: 0;
+	font-size: 15px;
+	line-height: 21px;
+}
+.blogcard .info{
+	padding-top: 6px;
+}
+.blogcard span{
+	font-size: 1.1em;
+	color: green;
+	margin-right: 6px;
+}
